@@ -5,3 +5,4 @@ langchain-openai
 faiss-cpu
 sentence-transformers
 PyPDF2
+langchain-community
